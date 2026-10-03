@@ -5,4 +5,12 @@
     "package_name": "io.github._6472208031sam_cloud.busstopalerts",
     "sha256_cert_fingerprints": ["F3:AA:82:FA:48:E9:9A:70:DD:4F:3D:F7:08:1E:1D:D7:D2:F4:0B:0C:A1:DF:E7:A9:60:89:18:83:C6:DE:4C:34"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.app_6472208031sam_cloud.twa",
+    "sha256_cert_fingerprints": ["F3:AA:82:FA:48:E9:9A:70:DD:4F:3D:F7:08:1E:1D:D7:D2:F4:0B:0C:A1:DF:E7:A9:60:89:18:83:C6:DE:4C:34"]
+  }
 }]
